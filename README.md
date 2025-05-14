@@ -1,12 +1,10 @@
-# Application Name
-
 ## Prerequisites
 - Ensure you have ruby 3.4.1 installed.
 - Install bundler
 
 ## Running the Application
 
-1. Clone the repository:
+1. Clone the repository
 2. Install dependencies: 
 ```bundle install```
 3. Run the application
